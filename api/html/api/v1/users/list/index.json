@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "message": null,
+  "data": {
+    "list": [
+      {
+        "id": "1",
+        "name": "Name 1",
+        "email": "mail1@mail.com",
+        "created_at": "20220416181614",
+        "updated_at": "20220516181614"
+      },
+      {
+        "id": "2",
+        "name": "Name 2",
+        "email": "mail2@mail.com",
+        "created_at": "20220416181615",
+        "updated_at": "20220516181615"
+      },
+      {
+        "id": "3",
+        "name": "Name 3",
+        "email": "mail3@mail.com",
+        "created_at": "20220416181616",
+        "updated_at": "20220516181616"
+      }
+    ]
+  }
+}

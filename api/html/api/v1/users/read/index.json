@@ -1,0 +1,11 @@
+{
+  "status": "ok",
+  "message": null,
+  "data": {
+    "id": "1",
+    "name": "Name 1",
+    "email": "mail1@mail.com",
+    "created_at": "20220416181614",
+    "updated_at": "20220516181614"
+  }
+}
