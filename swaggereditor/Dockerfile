@@ -1,2 +1,1 @@
-
-FROM swaggerapi/swagger-editor:latest-real
+FROM swaggerapi/swagger-editor:latest
